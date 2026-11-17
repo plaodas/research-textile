@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "BOE",
+    "url": "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx",
+    "retrieved_date_jst": "2026-11-17",
+    "sha256": "4c23dd392a498691eac92659aec283fb43f28118bd80511dc87fc595974195eb"
+  },
+  {
+    "source_id": "WOOD",
+    "url": "https://zenodo.org/records/1941698/files/article.pdf",
+    "retrieved_date_jst": "2026-11-17",
+    "sha256": "93edec7c5594f0743aa65304c5e3374874823a8404a1b0c22ef7dcb2af185276"
+  },
+  {
+    "source_id": "BAINES",
+    "url": "https://archive.org/download/cottonmanufact00bain/cottonmanufact00bain.pdf",
+    "retrieved_date_jst": "2026-11-17",
+    "sha256": "de978e5da49eed999964e7e333c02d748598d02e38ee80c4b3f288873786e1d8"
+  },
+  {
+    "source_id": "ALLEN2007",
+    "url": "https://www.nuffield.ox.ac.uk/media/2166/allen-pessimism-6.pdf",
+    "retrieved_date_jst": "2026-11-17",
+    "sha256": "fa55d8fefd58f59680106c81173a3882f3f7aade1aa225feb7de5203a7225bc7"
+  },
+  {
+    "source_id": "LANE2026",
+    "url": "https://pec.ac.uk/wp-content/uploads/2026/09/AI-Discussion-Paper-09.26.pdf",
+    "retrieved_date_jst": "2026-11-17",
+    "sha256": "99dfcca2ffee72366c8b28dfdfbb3ff5b7bb725dba2f727d66c764bd2c0080d5",
+    "redistributed": false,
+    "terms_url": "https://pec.ac.uk/terms/",
+    "terms_checked_date_jst": "2026-11-17",
+    "terms": "CC BY-NC-SA 4.0 unless otherwise stated; source PDF and figures not included"
+  }
+]

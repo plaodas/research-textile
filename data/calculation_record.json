@@ -1,0 +1,12 @@
+{
+  "input_source": "ALLEN2007",
+  "input_sha256": "fa55d8fefd58f59680106c81173a3882f3f7aade1aa225feb7de5203a7225bc7",
+  "price_series": "Allen2007 Appendix I; BoE A47 BL equivalent",
+  "new_interpolation": false,
+  "individual_worker_linkage": false,
+  "years": [
+    1806,
+    1862
+  ],
+  "wage_formula": "100*(nominal_t/CPI_t)/(nominal_1806/CPI_1806)"
+}

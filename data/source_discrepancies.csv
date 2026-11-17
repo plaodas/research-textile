@@ -1,0 +1,5 @@
+year,issue,value_a,value_b,unit,treatment
+1818,table41_addition,354000,355000,people,Preserve published value; explicitly sum components
+1849,table41_addition,350000,360000,people,Preserve published value; explicitly sum components
+1857,table41_addition,418000,411000,people,Preserve published value; explicitly sum components
+1850,table40_vs_table41_handloom,40000,43000,people,Do not splice; annual analysis uses table41

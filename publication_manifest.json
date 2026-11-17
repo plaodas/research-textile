@@ -1,0 +1,292 @@
+{
+  "version": "2026-11-17",
+  "publication_status": "Prepared for human review; not uploaded",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 57,
+      "sha256": "d395aa51d9b5d04522839243e8afe08e3a9d491f274d203e8988d78fcd97da2c",
+      "license": "See LICENSE.md"
+    },
+    {
+      "path": "LICENSE-CODE",
+      "bytes": 1087,
+      "sha256": "04c76a0fa6e42eb60fb7f3ee8ef28821b87650db3c60c651d947ae3fc3e83e8c",
+      "license": "See LICENSE.md"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 2611,
+      "sha256": "29b683913cb6ef8808a20a49adc9971824a0086c3948b8e7b7e61c2ea8b7a733",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "PUBLIC_FILES.md",
+      "bytes": 5070,
+      "sha256": "794c12b18244ebc82daf88c868afa48ba210b540a1fb573f603d656d4f35e48c",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6156,
+      "sha256": "2b42eea54970ee91f2ad010aa580b3632714884ded19a5afa7694d2689e6b0e2",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "ai_evidence.md",
+      "bytes": 3477,
+      "sha256": "1a53c86ac1bac120e281b70e49208ec5766dbe9bad741a1af57ce1c8df735cc1",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "article_factcheck.md",
+      "bytes": 9830,
+      "sha256": "9d230495a2791a25180b0ca5fe8666e6ca60bbab598ad39aced5f94d8b480f71",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "charts/01_employment.png",
+      "bytes": 142671,
+      "sha256": "3820e9dd62b9e0d0984217ec2a4bd4553416c939a2e4ff528fd95eeca8f0bf89",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "charts/01_employment.svg",
+      "bytes": 84858,
+      "sha256": "e06044aa915bd0415c1bf9d5d275553673ae2497f7a89111adbdc9e4ec1f53e5",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "charts/02_real_wages.png",
+      "bytes": 225270,
+      "sha256": "5b3d727235e234d5c12079c6c4a931d37f7c65d68084450e836fc1b68bbc1677",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "charts/02_real_wages.svg",
+      "bytes": 112321,
+      "sha256": "f5d9b6e499e9b6dcc0272e50b29f32f97cd9f030da4aa41772f1279887235439",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "charts/03_employment_comparison.png",
+      "bytes": 165632,
+      "sha256": "b95ecb2f410d44207228692195df06ca33667e68dacf4d9231845ea29689383e",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "charts/03_employment_comparison.svg",
+      "bytes": 82787,
+      "sha256": "4a720e559a1e0724d7174c71040fc4ea964165d813519a42ee7808d4427a178e",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "charts/04_productivity.png",
+      "bytes": 150571,
+      "sha256": "ad9c842cdd501b222a54c4432113b264bde5f31549df38a5a513dada4fe9dd3c",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "charts/04_productivity.svg",
+      "bytes": 100169,
+      "sha256": "734259db1a5e8f2b0ba0ad6777e82b3aa36b4f6fc1637fdd26044118f731da5b",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "charts/README.md",
+      "bytes": 2526,
+      "sha256": "601fd78406b6ea43e4a3b40656d4799c58be9abfc42f686351875b255950e02b",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "charts/manifest.json",
+      "bytes": 2526,
+      "sha256": "298341fee8b09a9d71ea185fa4f07a3cb823f61c47c68b362f44d102dfc207d7",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "data/README.md",
+      "bytes": 4745,
+      "sha256": "d6e311ee789db776a92b9bb666f1f852a9503b6398fd9873d2594f3738b701eb",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "data/calculation_record.json",
+      "bytes": 357,
+      "sha256": "8b54af0de1412386701d2d1b69b457d3411ff95a85e1c934db1c82a7d76aa522",
+      "license": "CC0-1.0 on own contributions; source rights not relicensed"
+    },
+    {
+      "path": "data/data_dictionary.csv",
+      "bytes": 17960,
+      "sha256": "60effa1f5ee69ffd758e99abcf37cb7ed6e897cba6879d19a7a451127d3333e8",
+      "license": "CC0-1.0 on own contributions; source rights not relicensed"
+    },
+    {
+      "path": "data/employment.csv",
+      "bytes": 8129,
+      "sha256": "48268895deea838c924067af1bea9b89e8cf562b7f6a6a67119688db253d12b6",
+      "license": "CC0-1.0 on own contributions; source rights not relicensed"
+    },
+    {
+      "path": "data/inputs/baines_productivity_transcription.csv",
+      "bytes": 375,
+      "sha256": "70468294b4c6cc545e7516ce1a6257dbce302e1c18b823be697c1330c328feaa",
+      "license": "CC0-1.0 on own contributions; source rights not relicensed"
+    },
+    {
+      "path": "data/inputs/wood_table40_transcription.csv",
+      "bytes": 565,
+      "sha256": "0a4abc41e4bac12da3f51ed141ba013383f4927eecdc081faafe1725da004360",
+      "license": "CC0-1.0 on own contributions; source rights not relicensed"
+    },
+    {
+      "path": "data/inputs/wood_table41_transcription.csv",
+      "bytes": 1726,
+      "sha256": "926a7f6815ab76256858ab46b660344f50c0bbbf8256897f382e7bcbc5dba197",
+      "license": "CC0-1.0 on own contributions; source rights not relicensed"
+    },
+    {
+      "path": "data/key_numbers.csv",
+      "bytes": 4252,
+      "sha256": "6d78ccdfa38864929388816f7b27d90be2f837dd809d519611bc1fa2935459c8",
+      "license": "CC0-1.0 on own contributions; source rights not relicensed"
+    },
+    {
+      "path": "data/productivity_examples.csv",
+      "bytes": 578,
+      "sha256": "77746866dfb2421231ae9b4e7e7543995d9508289e9858edd22d81355ed08189",
+      "license": "CC0-1.0 on own contributions; source rights not relicensed"
+    },
+    {
+      "path": "data/real_wages.csv",
+      "bytes": 8443,
+      "sha256": "e32b2f9edd0f79f4f93b9ce38879edc688df401ffab06e979d4ba403cd543960",
+      "license": "CC0-1.0 on own contributions; source rights not relicensed"
+    },
+    {
+      "path": "data/source_discrepancies.csv",
+      "bytes": 423,
+      "sha256": "bf12ab7c6a7b59535c4685c325b6d2a87dcd73d20b9afbfdd970b896fa5df2c1",
+      "license": "CC0-1.0 on own contributions; source rights not relicensed"
+    },
+    {
+      "path": "findings.md",
+      "bytes": 8122,
+      "sha256": "df3d9abb3a9d4c9455440fe3f6a8ddd4377f2dec3c48793cad2b2f4fc5b85deb",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "limitations.md",
+      "bytes": 4919,
+      "sha256": "b93447e47ada46943da46d74a734f767f042bdaa4d4b629dcb9ac97edff4d98e",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "publication_review.md",
+      "bytes": 4152,
+      "sha256": "870dbb3e86510a8004781c1799d83c325e23b041d10c158f897d41eec3e9cd18",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "reproducibility.md",
+      "bytes": 3211,
+      "sha256": "6920d600f1108e862a3e0d595eb5439e8cf12328eee4f2603ccdd46cdd14ab93",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 89,
+      "sha256": "84c7c19bd899a6d5bc1f679a9844df6e6b041952c936ac03ee69ec6568f3cb93",
+      "license": "See LICENSE.md"
+    },
+    {
+      "path": "scripts/charts.py",
+      "bytes": 7639,
+      "sha256": "47fdca1bca9437ffb16b13efba3fd4dcde951bb4eaf7f3cc045e2103a82e8677",
+      "license": "MIT"
+    },
+    {
+      "path": "scripts/describe_data.py",
+      "bytes": 6975,
+      "sha256": "3946c672f9ba637f7f2f1fdbf7982b15f2838d1c5dd763113d3209b880923224",
+      "license": "MIT"
+    },
+    {
+      "path": "scripts/fetch_source.py",
+      "bytes": 1554,
+      "sha256": "5562c345d9c61f04612d912367adfe0e975fbfb032cfc65afdc7d7bef6c50d6d",
+      "license": "MIT"
+    },
+    {
+      "path": "scripts/package_public.py",
+      "bytes": 6568,
+      "sha256": "554c20e98ccc9a91054b259ff2a1746a831a4a0083a4e8ca5a7091bd042babd8",
+      "license": "MIT"
+    },
+    {
+      "path": "scripts/process.py",
+      "bytes": 8149,
+      "sha256": "80f515a1bfa2af25d944c9206b0866d815d83a8bab05f09a30ff8f8676691b85",
+      "license": "MIT"
+    },
+    {
+      "path": "scripts/validate.py",
+      "bytes": 1718,
+      "sha256": "e1c81baf44c0bb8a963833b68ad0412e1c087619f10dffc920c4c023b34edd29",
+      "license": "MIT"
+    },
+    {
+      "path": "sources.md",
+      "bytes": 9641,
+      "sha256": "136e18cf1143a9e7941bc4b6dad58e2a4c84d17f078ab15fb9ab9734e97a08ab",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "tests/README.md",
+      "bytes": 1169,
+      "sha256": "972df95ae4c61c37c4262f9f70be43279ed246707a475beea9058d91ebe70333",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "tests/conftest.py",
+      "bytes": 190,
+      "sha256": "63c13224d2091d5f353f57a1d651dcd1e5ae2b48cd99488472cba49feeadf3be",
+      "license": "MIT"
+    },
+    {
+      "path": "tests/test_public.py",
+      "bytes": 8392,
+      "sha256": "abebda34a5f88361d3a287c85dc20e896632b85fd7321d9ea73a01b3b01183b5",
+      "license": "MIT"
+    },
+    {
+      "path": "tests/validation_report.json",
+      "bytes": 577,
+      "sha256": "8f82ef068e1331a1bbe7afb664d70f4545b07702a4eff983f34243f29e6b6d4b",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "third_party/README.md",
+      "bytes": 933,
+      "sha256": "917781df273cd61ac49d74bb76df20ac27efbddc858211d78c9f2ae72ad6e7a2",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    },
+    {
+      "path": "third_party/source_downloads.json",
+      "bytes": 1464,
+      "sha256": "0c0349881b732c9cec997193506d35f021b6e75556b61bff06ce2c9b98b63a5a",
+      "license": "CC-BY-4.0 on own expression; source rights not relicensed"
+    }
+  ],
+  "manifest_self_hash": "Excluded to avoid recursive hashing",
+  "excluded_categories": [
+    "third-party PDFs and spreadsheets",
+    "OCR and source-page scans",
+    "private manuscript",
+    "credentials",
+    "personal paths",
+    "caches",
+    "virtual environments"
+  ]
+}

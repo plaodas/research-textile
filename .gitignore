@@ -1,0 +1,6 @@
+.venv/
+_private/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.zip

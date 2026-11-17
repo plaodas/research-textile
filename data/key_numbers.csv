@@ -1,0 +1,44 @@
+year,measure,value,unit,source_ids,calculation
+1806,factory_people,90000,people,WOOD1910,Wood Table41 component sum for combined
+1806,handloom_people,184000,people,WOOD1910,Wood Table41 component sum for combined
+1806,combined_people,274000,people,WOOD1910,Wood Table41 component sum for combined
+1806,handloom_real_index,100,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1806,factory_real_index,100,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1806,weighted_real_index,100,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1820,factory_people,126000,people,WOOD1910,Wood Table41 component sum for combined
+1820,handloom_people,240000,people,WOOD1910,Wood Table41 component sum for combined
+1820,combined_people,366000,people,WOOD1910,Wood Table41 component sum for combined
+1820,handloom_real_index,41.9993512111,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1820,factory_real_index,104.340987732,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1820,weighted_real_index,54.5318969873,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1831,factory_people,187000,people,WOOD1910,Wood Table41 component sum for combined
+1831,handloom_people,240000,people,WOOD1910,Wood Table41 component sum for combined
+1831,combined_people,427000,people,WOOD1910,Wood Table41 component sum for combined
+1831,handloom_real_index,33.7249283668,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1831,factory_real_index,105.912998177,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1831,weighted_real_index,50.577801476,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1847,factory_people,277000,people,WOOD1910,Wood Table41 component sum for combined
+1847,handloom_people,53000,people,WOOD1910,Wood Table41 component sum for combined
+1847,combined_people,330000,people,WOOD1910,Wood Table41 component sum for combined
+1847,handloom_real_index,34.4071562208,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1847,factory_real_index,100.09354537,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1847,weighted_real_index,57.2010823281,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1850,factory_people,331000,people,WOOD1910,Wood Table41 component sum for combined
+1850,handloom_people,43000,people,WOOD1910,Wood Table41 component sum for combined
+1850,combined_people,374000,people,WOOD1910,Wood Table41 component sum for combined
+1850,handloom_real_index,43.4766548463,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1850,factory_real_index,126.477541371,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1850,weighted_real_index,73.3848818996,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1859,factory_people,415000,people,WOOD1910,Wood Table41 component sum for combined
+1859,handloom_people,13000,people,WOOD1910,Wood Table41 component sum for combined
+1859,combined_people,428000,people,WOOD1910,Wood Table41 component sum for combined
+1859,handloom_real_index,40.7774390244,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1859,factory_real_index,141.271920984,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1859,weighted_real_index,83.9766509382,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1862,factory_people,452000,people,WOOD1910,Wood Table41 component sum for combined
+1862,handloom_people,3000,people,WOOD1910,Wood Table41 component sum for combined
+1862,combined_people,455000,people,WOOD1910,Wood Table41 component sum for combined
+1862,handloom_real_index,36.9289658635,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1862,factory_real_index,133.79883169,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1862,weighted_real_index,80.3402377042,index_1806_100,WOOD1910;ALLEN2007,100*(nominal/CPI)/(nominal1806/CPI1806)
+1859,years_from_1831_to_first_strict_recross,28,years_in_reconstruction,WOOD1910,1859-1831; not an unemployment duration

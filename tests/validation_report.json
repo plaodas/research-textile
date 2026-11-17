@@ -1,0 +1,19 @@
+{
+  "validated_date_jst": "2026-11-17",
+  "python": "3.12.3",
+  "suite": "Public package tests; distinct from the earlier private 22-test suite",
+  "tests": 21,
+  "passed": 21,
+  "skipped": 0,
+  "failed": 0,
+  "external_allen_source_extraction_executed": true,
+  "local_paths_or_test_tracebacks_in_report": false,
+  "new_interpolation": false,
+  "individual_worker_linkage": false,
+  "comparison_with_existing_research": {
+    "annual_rows": 57,
+    "employment_exact_match": true,
+    "real_wage_index_absolute_tolerance": 1e-08,
+    "all_three_wage_series_match": true
+  }
+}
