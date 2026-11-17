@@ -8,7 +8,7 @@ import re
 import zipfile
 
 ROOT=Path(__file__).resolve().parents[1]
-TOP={'.gitignore','README.md','findings.md','sources.md','limitations.md',
+TOP={'PUBLICATION_DECISIONS.md','.gitignore','README.md','findings.md','sources.md','limitations.md',
      'article_factcheck.md','ai_evidence.md','publication_review.md','reproducibility.md',
      'LICENSE.md','LICENSE-CODE','requirements.txt','PUBLIC_FILES.md','publication_manifest.json'}
 DATA={'data/README.md','data/data_dictionary.csv','data/employment.csv','data/real_wages.csv',
@@ -97,7 +97,8 @@ def main():
                   license=license_for(p.relative_to(ROOT).as_posix()))
              for p in files if p.name!='publication_manifest.json']
     (ROOT/'publication_manifest.json').write_text(json.dumps({
-        'version':'2026-11-17','publication_status':'Prepared for human review; not uploaded',
+        'version':'2026-11-17','publication_status':'Local revision after user-reported publication; remaining review items pending',
+        'local_revision_date_jst':'2026-11-18','uploaded_by_agent':False,'status_as_of':'Package creation before the user-authorized GitHub push',
         'files':records,'manifest_self_hash':'Excluded to avoid recursive hashing',
         'excluded_categories':['third-party PDFs and spreadsheets','OCR and source-page scans',
                                'private manuscript','credentials','personal paths','caches','virtual environments'],

@@ -2,6 +2,8 @@
 """Write a portable test report without local paths or captured personal environment details."""
 from pathlib import Path
 import argparse
+from datetime import datetime
+from zoneinfo import ZoneInfo
 import json
 import subprocess
 import sys
@@ -27,7 +29,7 @@ def main():
             raise SystemExit(result.returncode)
         tests=ET.parse(report).getroot().findall('.//testcase')
         skipped=sum(t.find('skipped') is not None for t in tests)
-        record={'validated_date_jst':'2026-11-17','python':'.'.join(map(str,sys.version_info[:3])),
+        record={'validated_date_jst':datetime.now(ZoneInfo('Asia/Tokyo')).date().isoformat(),'python':'.'.join(map(str,sys.version_info[:3])),
                 'suite':'Public package tests; distinct from the earlier private 22-test suite',
                 'tests':len(tests),'passed':len(tests)-skipped,'skipped':skipped,'failed':0,
                 'external_allen_source_extraction_executed':bool(args.allen_pdf),

@@ -9,6 +9,7 @@ SHA-256とサイズは[publication_manifest.json](publication_manifest.json)を�
 | [.gitignore](.gitignore) | See LICENSE.md |
 | [LICENSE-CODE](LICENSE-CODE) | See LICENSE.md |
 | [LICENSE.md](LICENSE.md) | CC-BY-4.0 on own expression; source rights not relicensed |
+| [PUBLICATION_DECISIONS.md](PUBLICATION_DECISIONS.md) | CC-BY-4.0 on own expression; source rights not relicensed |
 | [PUBLIC_FILES.md](PUBLIC_FILES.md) | CC-BY-4.0 on own expression; source rights not relicensed |
 | [README.md](README.md) | CC-BY-4.0 on own expression; source rights not relicensed |
 | [ai_evidence.md](ai_evidence.md) | CC-BY-4.0 on own expression; source rights not relicensed |
