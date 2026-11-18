@@ -1,9 +1,8 @@
 {
   "version": "2026-11-17",
-  "publication_status": "Local revision after user-reported publication; remaining review items pending",
-  "local_revision_date_jst": "2026-11-18",
-  "uploaded_by_agent": false,
-  "status_as_of": "Package creation before the user-authorized GitHub push",
+  "publication_status": "Research data and documentation package",
+  "research_reference_date_jst": "2026-11-17",
+  "documentation_revision_date_jst": "2026-11-18",
   "files": [
     {
       "path": ".gitignore",
@@ -25,8 +24,8 @@
     },
     {
       "path": "PUBLICATION_DECISIONS.md",
-      "bytes": 25295,
-      "sha256": "c9e22a958aaab4c1577e710aa793b3650b8a0a3f9ff59178b6f5adfb54cb3db1",
+      "bytes": 4308,
+      "sha256": "e99ebf3b4dc7eda8471d1510e12658d457d68b21d0d3b5a88f92373bb77941e6",
       "license": "CC-BY-4.0 on own expression; source rights not relicensed"
     },
     {
@@ -37,8 +36,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6991,
-      "sha256": "500d1bcabbcf37bc988e20eb5be6621cb5e3b0a2cbfc5e267cf47ee12258006c",
+      "bytes": 6645,
+      "sha256": "ed9412ad4214239f3c9db82ded482e2d26435e025cbc69da4afb3b5b682e3e10",
       "license": "CC-BY-4.0 on own expression; source rights not relicensed"
     },
     {
@@ -229,8 +228,8 @@
     },
     {
       "path": "scripts/package_public.py",
-      "bytes": 6781,
-      "sha256": "bc8ab5e35b9dedec8e8ca31d15e205d06b7a996f2b32931cdfa67e2671a044be",
+      "bytes": 6694,
+      "sha256": "dd2daef9278589f49165f69f612c5796e794269738489147befadae8a4e9c279",
       "license": "MIT"
     },
     {

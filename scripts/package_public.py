@@ -97,8 +97,8 @@ def main():
                   license=license_for(p.relative_to(ROOT).as_posix()))
              for p in files if p.name!='publication_manifest.json']
     (ROOT/'publication_manifest.json').write_text(json.dumps({
-        'version':'2026-11-17','publication_status':'Local revision after user-reported publication; remaining review items pending',
-        'local_revision_date_jst':'2026-11-18','uploaded_by_agent':False,'status_as_of':'Package creation before the user-authorized GitHub push',
+        'version':'2026-11-17','publication_status':'Research data and documentation package',
+        'research_reference_date_jst':'2026-11-17','documentation_revision_date_jst':'2026-11-18',
         'files':records,'manifest_self_hash':'Excluded to avoid recursive hashing',
         'excluded_categories':['third-party PDFs and spreadsheets','OCR and source-page scans',
                                'private manuscript','credentials','personal paths','caches','virtual environments'],
